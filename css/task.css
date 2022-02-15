@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Quintessential&display=swap');
+
+body {
+    background-color: rgba(53, 51, 37, 0.664);
+}
+
+.pealkiri {
+    text-align: center;
+}
+
+.retsept-pealkiri {
+    color: pink;
+    text-align: center;
+    font-family: 'Quintessential', cursive;
+    font-size: 3rem;
+}
+
+.pilt {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+.koostisosad {
+    border: 1px solid rgb(240, 194, 194);
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    color: rgb(44, 42, 44);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.koostisosad-table {
+    border: 1px solid rgb(240, 194, 194);
+    margin: 0 auto;
+    text-align: center;
+}
+
+.valmistamine {
+    border: 1px solid rgb(240, 194, 194);
+    width: 50%;
+    margin: 0 auto;
+    color: rgb(44, 42, 44);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.valmistamine ol {
+    border: 1px solid rgb(240, 194, 194);
+    margin: 0 auto;
+    width: 50%;
+}
+
+.viide {
+    color: rgb(44, 42, 44);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.jalus {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    color: pink;
+}
